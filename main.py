@@ -1,7 +1,7 @@
 from diaries.yumaDiary import yumaDiary
 
 # ↓のリストには、メンバーの各日記が格納されます。
-diaries = [yumaDiary(), ]
+diaries = [yumaDiary(),  ]
 
 for d in diaries:
     print("---------------------------------")
